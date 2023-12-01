@@ -14,7 +14,7 @@
   
 * Machine Learning Model 2:
 * Decription of Model 2 Accuracy, Precision, and Recall Scores
-* Model 2 had a balanced accuracy score of 0.99.36 which means that model was very good at predicting a certain classification in and unbalanced dataset. In addition, Model2 scored high in precision and recall of the first variable at 1.00 and 0.99 respectively and had improved results for the second varialbe.
+* Model 2 had a balanced accuracy score of 0.9936 which means that model was very good at predicting a certain classification in and unbalanced dataset. In addition, Model2 scored high in precision and recall of the first variable at 1.00 and 0.99 respectively and had improved results for the second varialbe in precision but not accuracy.
   
 ## Summary
 Overall both models proved had positive results in the abitlity to idenify the desired variable. These models appear to be a good tool detect appropriate candidates who desire lines of credit.
